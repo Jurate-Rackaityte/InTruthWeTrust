@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: a5c66340318abb0478fc7464cebf39a9
+labels:
+- Architecture
+- Free
+- FreeGarage
+- Garage
+- Pit
+- Racing
+- Road
+- Track
+timeCreated: 1485608388
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Garage01_Detail1
+    100004: Garage01_Detail2
+    100006: Garage01_Detail3
+    100008: Garage01_Detail4
+    100010: Garage01_Detail5
+    100012: Garage01_Detail6
+    100014: Garage01_Team
+    400000: //RootNode
+    400002: Garage01_Detail1
+    400004: Garage01_Detail2
+    400006: Garage01_Detail3
+    400008: Garage01_Detail4
+    400010: Garage01_Detail5
+    400012: Garage01_Detail6
+    400014: Garage01_Team
+    2300000: //RootNode
+    2300002: Garage01_Detail1
+    2300004: Garage01_Detail2
+    2300006: Garage01_Detail3
+    2300008: Garage01_Detail4
+    2300010: Garage01_Detail5
+    2300012: Garage01_Detail6
+    2300014: Garage01_Team
+    3300000: //RootNode
+    3300002: Garage01_Detail1
+    3300004: Garage01_Detail2
+    3300006: Garage01_Detail3
+    3300008: Garage01_Detail4
+    3300010: Garage01_Detail5
+    3300012: Garage01_Detail6
+    3300014: Garage01_Team
+    4300000: Garage01
+    4300002: Garage01_Detail2
+    4300004: Garage01_Detail1
+    4300006: Garage01_Team
+    4300008: Garage01_Detail3
+    4300010: Garage01_Detail4
+    4300012: Garage01_Detail5
+    4300014: Garage01_Detail6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

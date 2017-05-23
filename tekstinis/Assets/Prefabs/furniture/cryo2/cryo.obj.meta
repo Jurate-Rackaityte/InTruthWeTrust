@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: d189fa4326ba2144e8282b0562157fb2
+timeCreated: 1488119499
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cryo_g_32244-Blinds_Roman_Hobbled_Blue
+    100004: cryo_g_32244-Metal_Aluminum_Anodized
+    100006: cryo_g_32244-Metal_Corrogated_Shiny
+    100008: cryo_g_32245-Color_008
+    100010: cryo_g_32245-Metal_Aluminum_Anodized
+    100012: cryo_g_32246-Metal_Aluminum_Anodized
+    100014: cryo_g_32247sphere-Translucent_Glass_Blue
+    400000: //RootNode
+    400002: cryo_g_32244-Blinds_Roman_Hobbled_Blue
+    400004: cryo_g_32244-Metal_Aluminum_Anodized
+    400006: cryo_g_32244-Metal_Corrogated_Shiny
+    400008: cryo_g_32245-Color_008
+    400010: cryo_g_32245-Metal_Aluminum_Anodized
+    400012: cryo_g_32246-Metal_Aluminum_Anodized
+    400014: cryo_g_32247sphere-Translucent_Glass_Blue
+    2300000: cryo_g_32244-Blinds_Roman_Hobbled_Blue
+    2300002: cryo_g_32244-Metal_Aluminum_Anodized
+    2300004: cryo_g_32244-Metal_Corrogated_Shiny
+    2300006: cryo_g_32245-Color_008
+    2300008: cryo_g_32245-Metal_Aluminum_Anodized
+    2300010: cryo_g_32246-Metal_Aluminum_Anodized
+    2300012: cryo_g_32247sphere-Translucent_Glass_Blue
+    3300000: cryo_g_32244-Blinds_Roman_Hobbled_Blue
+    3300002: cryo_g_32244-Metal_Aluminum_Anodized
+    3300004: cryo_g_32244-Metal_Corrogated_Shiny
+    3300006: cryo_g_32245-Color_008
+    3300008: cryo_g_32245-Metal_Aluminum_Anodized
+    3300010: cryo_g_32246-Metal_Aluminum_Anodized
+    3300012: cryo_g_32247sphere-Translucent_Glass_Blue
+    4300000: cryo_g_32244-Blinds_Roman_Hobbled_Blue
+    4300002: cryo_g_32244-Metal_Aluminum_Anodized
+    4300004: cryo_g_32244-Metal_Corrogated_Shiny
+    4300006: cryo_g_32245-Color_008
+    4300008: cryo_g_32245-Metal_Aluminum_Anodized
+    4300010: cryo_g_32246-Metal_Aluminum_Anodized
+    4300012: cryo_g_32247sphere-Translucent_Glass_Blue
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

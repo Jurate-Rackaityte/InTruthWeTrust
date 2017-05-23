@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: ba8dbd45e0baed746afdb1d3f7e75e8b
+timeCreated: 1484169838
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Movieplate01_0
+    21300002: Movieplate01_1
+    21300004: Movieplate01_2
+    21300006: Movieplate01_3
+    21300008: Movieplate01_4
+    21300010: Movieplate01_5
+    21300012: Movieplate01_6
+    21300014: Movieplate01_7
+    21300016: Movieplate01_8
+    21300018: Movieplate01_9
+    21300020: Movieplate01_10
+    21300022: Movieplate01_11
+    21300024: Movieplate01_12
+    21300026: Movieplate01_13
+    21300028: Movieplate01_14
+    21300030: Movieplate01_15
+    21300032: Movieplate01_16
+    21300034: Movieplate01_17
+    21300036: Movieplate01_18
+    21300038: Movieplate01_19
+    21300040: Movieplate01_20
+    21300042: Movieplate01_21
+    21300044: Movieplate01_22
+    21300046: Movieplate01_23
+    21300048: Movieplate01_24
+    21300050: Movieplate01_25
+    21300052: Movieplate01_26
+    21300054: Movieplate01_27
+    21300056: Movieplate01_28
+    21300058: Movieplate01_29
+    21300060: Movieplate01_30
+    21300062: Movieplate01_31
+    21300064: Movieplate01_32
+    21300066: Movieplate01_33
+    21300068: Movieplate01_34
+    21300070: Movieplate01_35
+    21300072: Movieplate01_36
+    21300074: Movieplate01_37
+    21300076: Movieplate01_38
+    21300078: Movieplate01_39
+    21300080: Movieplate01_40
+    21300082: Movieplate01_41
+    21300084: Movieplate01_42
+    21300086: Movieplate01_43
+    21300088: Movieplate01_44
+    21300090: Movieplate01_45
+    21300092: Movieplate01_46
+    21300094: Movieplate01_47
+    21300096: Movieplate01_48
+    21300098: Movieplate01_49
+    21300100: Movieplate01_50
+    21300102: Movieplate01_51
+    21300104: Movieplate01_52
+    21300106: Movieplate01_53
+    21300108: Movieplate01_54
+    21300110: Movieplate01_55
+    21300112: Movieplate01_56
+    21300114: Movieplate01_57
+    21300116: Movieplate01_58
+    21300118: Movieplate01_59
+    21300120: Movieplate01_60
+    21300122: Movieplate01_61
+    21300124: Movieplate01_62
+    21300126: Movieplate01_63
+    21300128: Movieplate01_64
+    21300130: Movieplate01_65
+    21300132: Movieplate01_66
+    21300134: Movieplate01_67
+    21300136: Movieplate01_68
+    21300138: Movieplate01_69
+    21300140: Movieplate01_70
+    21300142: Movieplate01_71
+    21300144: Movieplate01_72
+    21300146: Movieplate01_73
+    21300148: Movieplate01_74
+    21300150: Movieplate01_75
+    21300152: Movieplate01_76
+    21300154: Movieplate01_77
+    21300156: Movieplate01_78
+    21300158: Movieplate01_79
+    21300160: Movieplate01_80
+    21300162: Movieplate01_81
+    21300164: Movieplate01_82
+    21300166: Movieplate01_83
+    21300168: Movieplate01_84
+    21300170: Movieplate01_85
+    21300172: Movieplate01_86
+    21300174: Movieplate01_87
+    21300176: Movieplate01_88
+    21300178: Movieplate01_89
+    21300180: Movieplate01_90
+    21300182: Movieplate01_91
+    21300184: Movieplate01_92
+    21300186: Movieplate01_93
+    21300188: Movieplate01_94
+    21300190: Movieplate01_95
+    21300192: Movieplate01_96
+    21300194: Movieplate01_97
+    21300196: Movieplate01_98
+    21300198: Movieplate01_99
+    21300200: Movieplate01_100
+    21300202: Movieplate01_101
+    21300204: Movieplate01_102
+    21300206: Movieplate01_103
+    21300208: Movieplate01_104
+    21300210: Movieplate01_105
+    21300212: Movieplate01_106
+    21300214: Movieplate01_107
+    21300216: Movieplate01_108
+    21300218: Movieplate01_109
+    21300220: Movieplate01_110
+    21300222: Movieplate01_111
+    21300224: Movieplate01_112
+    21300226: Movieplate01_113
+    21300228: Movieplate01_114
+    21300230: Movieplate01_115
+    21300232: Movieplate01_116
+    21300234: Movieplate01_117
+    21300236: Movieplate01_118
+    21300238: Movieplate01_119
+    21300240: Movieplate01_120
+    21300242: Movieplate01_121
+    21300244: Movieplate01_122
+    21300246: Movieplate01_123
+    21300248: Movieplate01_124
+    21300250: Movieplate01_125
+    21300252: Movieplate01_126
+    21300254: Movieplate01_127
+    21300256: Movieplate02_0
+    21300258: Movieplate02_1
+    21300260: Movieplate02_2
+    21300262: Movieplate02_3
+    21300264: Movieplate02_4
+    21300266: Movieplate02_5
+    21300268: Movieplate02_6
+    21300270: Movieplate02_7
+    21300272: Movieplate02_8
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Movieplate02_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 891
+        width: 186
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Movieplate02_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 887
+        width: 191
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Movieplate02_2
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 753
+        width: 190
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Movieplate02_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 756
+        width: 184
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Movieplate02_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 191
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Movieplate02_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 614
+        width: 191
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Movieplate02_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 478
+        width: 191
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Movieplate02_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 911
+        width: 213
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Movieplate02_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 793
+        width: 211
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

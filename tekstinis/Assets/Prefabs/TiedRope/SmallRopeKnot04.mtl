@@ -1,0 +1,7 @@
+#Produced by Art of Illusion 2.8.1, Wed Apr 20 20:24:39 CDT 2011
+newmtl Rope
+Kd 1 1 1
+map_Kd SmallRopeKnot041.jpg
+Ks 0 0 0
+Ka 0 0 0
+illum 1
